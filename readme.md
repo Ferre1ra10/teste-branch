@@ -1,3 +1,1 @@
-a duda 
-b
-c
+Resolvido estamos em resolução do caso.
