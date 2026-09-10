@@ -1,3 +1,1 @@
-Qualquer
-Coisa
-Socorro Douglas
+Resolvido estamos em resolução do caso.
